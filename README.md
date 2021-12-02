@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi i'm Arthur Moreira, nice to meet you 👋👋
 
-<!--
-**4rtMoreira/4rtMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱Today i' am learning JavaScript and Python a little of html and css
+- 📫 My contact email is artmoreira2103@gmail.com
+- 😄 My pronouns are he/him
+- ⚡ Fun fact: I have two dogs 🐶🐶
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/4rtMoreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4rtMoreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rtMoreira&layout=compact&langs_count=7&theme=dark"/>
+</div>
